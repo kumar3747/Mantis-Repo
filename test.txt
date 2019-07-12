@@ -2,6 +2,7 @@
 <style>
 body {
   background-color: linen;
+// this is test for mantis and git integration //
 }
 
 h1 {
